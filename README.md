@@ -1,4 +1,4 @@
-# Weather App
+# WeatherFlu Application
 
 This is a simple Weather App written in Python using the Flet framework. It allows you to retrieve weather information for a specific city. The app makes use of the WeatherAPI to fetch weather data and displays it in a user-friendly format.
 
