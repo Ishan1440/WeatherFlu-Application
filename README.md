@@ -8,6 +8,8 @@ This is a simple Weather App written in Python using the Flet framework. It allo
 - Display various weather details including temperature, location, wind speed, and more.
 - Toggle between Celsius and Fahrenheit temperature units.
 
+![_2024-01-18 14-37-31](https://github.com/Ishan1440/WeatherFlu-Application/assets/113188276/48adf169-0a8e-4f21-bc37-265f4d7e34c9)
+
 ## How to Use
 
 1. Clone this repository to your local machine.
